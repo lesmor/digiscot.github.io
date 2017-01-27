@@ -67,7 +67,11 @@ Trainer Wafa with volunteer Maryam who started on our course in January and has 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/BMG0w"><a href="//imgur.com/BMG0w"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 Two of our completers for our third course. Fargana and Thaiseen are delighted with their certificates.
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/c70MG"><a href="//imgur.com/c70MG"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+One of our final students, Naija, has come a long way since starting the course.
+
 * Train 2 staff members of Saheliya to become digital champions: October 2016
+In November our trainer delivered digital chamption training to 2 members of staff.  It had hoped that more staff would become involved but it proved very difficult for them to dedicate the time necessary from their busy schedules.  However, the general awareness of staff of the importance of digital literacy was raised by referring clients and getting positive feedback of the benefits of the training.
 
 ### Planned outputs and outcomes
 
@@ -80,7 +84,23 @@ Two of our completers for our third course. Fargana and Thaiseen are delighted w
 ### Evaluation
 
 
-### Lessons learned
 
+### Lessons learned
+The courses started in January 2016 with 6 women starting the course. We quickly found that understanding English was more of an issue than originally thought, despite the partner organisation, Saheliya having worked with the target group for many years. This was due to the technical language used around computers. To tackle this an ESOL teacher revised the learning materials to simplify the language used and also produced a 'jargon buster' to explain some of the technical terms they would encounter.  This was very effective and we found that the training supported the improvement of their English language skills.
+
+Another factor was the lack of confidence experienced by the students.  This was also much more of an issue than originally planned. It meant that the 8 weeks originally planned was much longer for some women.  It was agreed by the partners at a Milestone Meeting that it was more important for the students to be given enough time to feel confident in their new skills rather than having an aribitrary cut off date.  This meant we were not able to take as many woman on the course as originally planned (24) but we felt that those who did had very solid skills and the confidence to use computers by themselves when they left.
+The support of a volunteer was vital.  In particular, we recruited one of the students to train as a volunteer and she continued throughout the course. As she had a good understanding of how the students felt she contributed greatly to developing their confidence. We also used a volunteer from another project who had ESOL teaching experience and a lot of experience teaching digital literacy skills to support the project.
+Childcare has been very important.  Delivered on the premises as Saheliya run a childcare social enterprise, it meant that the women could manage the organisation of dropping their children in the childcare facility which was then easily accessed from the training suite. This gave them peace of mind and removed a barrier from them attending the course.
+Throughout the project we have recognised that the opportunity to practice has been vital to support learning. Space is very limited at Saheliya but they have done their best to offer additional drop-in sessions and one of the volunteers has supported this.
+
+Case Studies
+Fargana Nashrin
+Fargana had some experience of using social media but lacked a grounding in digital skills. During the class she has learned the correct way to do things such as files and folders, how to save photos and email. She also learned some Word and Excel which would help her find work. She worked hard to practice in her own time which made a different. She enjoyed the social side of the class and praised how the trainer made her feel more confident. She also found it useful to learn how to use the laptop as well as ipad and mobile phone. The class has inspired Fargana to learn more and has joined other courses at Saheliya. However, her limited English meant that she was unable to take the Microsoft Basic Digital Literacy test and got an achievement certificate instead.
+
+Mussarat Mahmood
+Mussarat had not used a computer. Her children had tried to help her use her mobile but she was very nervous and felt she wouldn’t be able to learn anything. She was so nervous the first couple of sessions, she didn’t enjoy the class. However, she kept attending and slowly gained a bit of confidence. She also needed to use Google Translate due to her poor English.  She worked hard in her own time and bought a book on computing to help her practice. Mussarat was stressed with poor health and difficult family demands.  She learned during the class it was important to set time aside for herself to practice. She felt that by learning she was able to help her children, talk to her mum on Skype and WhatsApp, do online shopping, top up her phone online and even keep up with her children on Facebook.  In the end she passed the Microsoft Basic Digital Literacy test.
+The best thing for Mussarat has been the fact that her children are no longer embarrassed by her lack of digital skills compared to other parents and uses her mobile phone camera at school events.
+Tangila  Akter
+Tangila had a computer at home which she used to Skype family abroad and to find children’s games.  However, she had no experience of Microsoft Office which she was particularly interested in as she is looking for work and thinks this will help her. She was very positive about learning and wants to help her children with school work. She is planning to sit the Microsoft Basic Digital Literacy test and continue practising at the drop-in sessions.
 
 
